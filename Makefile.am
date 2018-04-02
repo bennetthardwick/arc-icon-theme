@@ -1,5 +1,5 @@
 EXTRA_DIST = \
-	$(srcdir)/Arc \
+	$(srcdir)/Arc-Gruvbox \
 	$(srcdir)/COPYING \
 	$(srcdir)/CREDITS \
 	$(srcdir)/README.md
