@@ -9,7 +9,7 @@ popd > /dev/null
 
 cd ${DIR}
 
-THEMEDIR=../Arc
+THEMEDIR=../Arc-Gruvbox
 
 mkdir -p $THEMEDIR
 
