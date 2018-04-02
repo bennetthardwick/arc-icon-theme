@@ -89,7 +89,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#ebdbb2"
      bordercolor="#e7e7e7"
      borderopacity="1"
      inkscape:pageopacity="0.0"
@@ -150,7 +150,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.15"
+       style="fill:#ebdbb2;fill-opacity:1;stroke:none;opacity:0.15"
        d="M 8 1 C 4.1360002 1 1 4.1360001 1 8 C 1 11.864 4.1360002 15 8 15 C 11.864 15 15 11.864 15 8 C 15 4.1360001 11.864 1 8 1 z M 8 2 C 11.312 2 14 4.6880001 14 8 C 14 11.312 11.312 14 8 14 C 4.6880002 14 2 11.312 2 8 C 2 4.6880001 4.6880002 2 8 2 z "
        id="path3020" />
     <path

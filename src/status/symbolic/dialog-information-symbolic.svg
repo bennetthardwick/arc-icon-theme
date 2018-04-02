@@ -41,7 +41,7 @@
          offset="0.30654153"
          id="stop3757" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#ebdbb2;stop-opacity:1"
          offset="0.70706075"
          id="stop3737" />
       <stop
@@ -74,7 +74,7 @@
          offset="0.30654153"
          id="stop3757-4" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#ebdbb2;stop-opacity:1"
          offset="0.70706075"
          id="stop3737-9" />
       <stop
@@ -89,7 +89,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#ebdbb2"
      bordercolor="#9a9a9a"
      borderopacity="1"
      inkscape:pageopacity="0.0"
