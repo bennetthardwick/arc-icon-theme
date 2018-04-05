@@ -28,11 +28,11 @@ to
 
 Installation via autotools:
 
-    git clone https://github.com/horst3180/arc-icon-theme --depth 1 && cd arc-icon-theme
+    git clone https://github.com/bennetthardwick/gruvbox-arc-icon-theme --depth 1 && cd gruvbox-arc-icon-theme
     ./autogen.sh --prefix=/usr
     sudo make install
 
-Alternatively you may copy the `Arc` folder to `~/.icons` or to `/usr/share/icons` for system-wide use.
+Alternatively you may copy the `Arc-Gruvbox` folder to `~/.icons` or to `/usr/share/icons` for system-wide use.
 
 ### Uninstall
 
@@ -42,9 +42,9 @@ Run
 
 from the same directory as this README resides in, or
 
-    sudo rm -rf /usr/share/icons/Arc
+    sudo rm -rf /usr/share/icons/Arc-Gruvbox
 
 ### Preview
-![Preview](https://i.imgur.com/yCO1aeP.png)
+![Preview](https://i.imgur.com/vdzEnVa.png)
 
 License: GPLv3
